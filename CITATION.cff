@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "cuvacli-ndvi-climate: vegetation sensitivity to interannual climate variability in Spain's National Parks"
+type: software
+authors:
+  - family-names: Franquesa
+    given-names: Magí
+    affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
+  - family-names: Adell-Michavila
+    given-names: Miquel
+    affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
+  - family-names: Vicente-Serrano
+    given-names: Sergio M.
+    affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
+version: "2.0"
+date-released: "2026-09-15"
+license: MIT
+repository-code: "https://github.com/magifranquesa/cuvacli-ndvi-climate"
+preferred-citation:
+  type: article
+  title: "Vegetation sensitivity to interannual climate variability in Spain's National Parks: seasonal patterns and accumulation timescales"
+  authors:
+    - family-names: Franquesa
+      given-names: Magí
+    - family-names: Adell-Michavila
+      given-names: Miquel
+    - family-names: Vicente-Serrano
+      given-names: Sergio M.
+  journal: "International Journal of Geoheritage and Parks"
+  year: 2026
+  notes: "in revision"
+references:
+  - type: data
+    title: "High-resolution NDVI time series and pixel-wise NDVI–climate correlations across Spain's National Parks (1984–2023)"
+    doi: 10.5281/zenodo.18469776
+    version: "2.0"

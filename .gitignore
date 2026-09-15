@@ -1,0 +1,17 @@
+# data and heavy outputs never go in the repository
+*.nc
+*.tif
+*.tiff
+*.zip
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+# figures are regenerated from the scripts
+*.pdf
+*.png
+*.svg
+# OS / editor
+Thumbs.db
+.DS_Store
+~$*

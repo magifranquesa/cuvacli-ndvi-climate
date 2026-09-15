@@ -5,12 +5,7 @@ type: software
 authors:
   - family-names: Franquesa
     given-names: Magí
-    affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
-  - family-names: Adell-Michavila
-    given-names: Miquel
-    affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
-  - family-names: Vicente-Serrano
-    given-names: Sergio M.
+    orcid: "https://orcid.org/0000-0003-3101-0394"
     affiliation: "Instituto Pirenaico de Ecología (IPE-CSIC)"
 version: "2.0"
 date-released: "2026-09-15"
@@ -22,10 +17,25 @@ preferred-citation:
   authors:
     - family-names: Franquesa
       given-names: Magí
+      orcid: "https://orcid.org/0000-0003-3101-0394"
     - family-names: Adell-Michavila
-      given-names: Miquel
+      given-names: Maria
+      orcid: "https://orcid.org/0009-0003-6293-1994"
+    - family-names: Gil-Guallar
+      given-names: Marcos
+      orcid: "https://orcid.org/0009-0008-0361-4047"
+    - family-names: Royo-Aranda
+      given-names: Alejandro
+      orcid: "https://orcid.org/0009-0004-1904-1176"
+    - family-names: Halifa-Marín
+      given-names: Amar
+      orcid: "https://orcid.org/0000-0002-2388-1598"
+    - family-names: Beguería
+      given-names: Santiago
+      orcid: "https://orcid.org/0000-0002-3974-2947"
     - family-names: Vicente-Serrano
       given-names: Sergio M.
+      orcid: "https://orcid.org/0000-0003-2892-518X"
   journal: "International Journal of Geoheritage and Parks"
   year: 2026
   notes: "in revision"

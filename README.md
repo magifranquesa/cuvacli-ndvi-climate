@@ -2,7 +2,7 @@
 
 Code for the analyses and figures of
 
-> Franquesa, M., Adell-Michavila, M., Vicente-Serrano, S.M. *Vegetation sensitivity to interannual climate variability in Spain's National Parks: seasonal patterns and accumulation timescales.* International Journal of Geoheritage and Parks (in revision).
+> Franquesa, M., Adell-Michavila, M., Gil-Guallar, M., Royo-Aranda, A., Halifa-Marín, A., Beguería, S., Vicente-Serrano, S.M. *Vegetation sensitivity to interannual climate variability in Spain's National Parks: seasonal patterns and accumulation timescales.* International Journal of Geoheritage and Parks (in revision).
 
 Starting from the monthly NDVI and kNDVI series of Franquesa et al. (2025), the workflow computes pixel-wise correlations between vegetation activity and climate at 30 m for the twelve national parks of mainland Spain and the Balearic and Atlantic islands over 1984–2023; selects the strongest response across accumulation timescales; controls the false discovery rate; aggregates the results by park and by vegetation type; and produces every figure of the manuscript and supplement, plus a set of complementary analyses.
 
